@@ -25,7 +25,7 @@ const Searchbar = () => {
       setLoading(false);
     }
   };
-
+  
   return (
     <div className="min-h-screen bg-gradient-to-r from-blue-200 to-blue-100 flex flex-col items-center justify-start p-6">
       <h1 className="text-3xl font-bold mb-6 text-gray-700">🌤 Weather App</h1>
